@@ -4,6 +4,10 @@
 - 🍕 I'm Italian: ask me about anything but do NOT tell me that you like pineapple on your pizza if you do!
 - 📫 How to reach me: I'm a message away on [LinkedIn](https://www.linkedin.com/in/dianaberte)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=DianaBerte&label=Profile%20Views&color=12&pretty=false" />
+</a>
+
 <!--
 **DianaBerte/DianaBerte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
