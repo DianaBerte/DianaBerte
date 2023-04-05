@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🌱 I’m currently learning HTML | CSS | JS | React | Redux | ExpressJS | Node JS | MongoDB | PostgreSQL.
+- 🌱 I’m currently learning HTML | CSS | JS | React | Redux | ExpressJS | Node JS | MongoDB | PostgreSQL
 - 🍕 I'm Italian: ask me about anything but do NOT tell me that you like pineapple on your pizza if you do!
 - 📫 How to reach me: I'm a message away on [LinkedIn](https://www.linkedin.com/in/dianaberte)
 
