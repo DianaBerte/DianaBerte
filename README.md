@@ -1,9 +1,9 @@
 ### Hi there! 👋
 
-🌱 I’m currently learning HTML, CSS, JS, React, Redux, ExpressJS, Node JS, MongoDB, and PostgreSQL.
-🍕 I'm Italian: ask me about anything but do NOT tell me that you like pineapple on your pizza if you do.
-📫 How to reach me: I'm a message away on LinkedIn (https://www.linkedin.com/in/dianaberte).
-⚡ Fun fact: I knew nothing about coding until November 2022. I graduated in Chinese language & culture, and I used to work as a Marketing Specialist.
+- 🌱 I’m currently learning HTML, CSS, JS, React, Redux, ExpressJS, Node JS, MongoDB, and PostgreSQL.
+- 🍕 I'm Italian: ask me about anything but do NOT tell me that you like pineapple on your pizza if you do.
+- 📫 How to reach me: I'm a message away on LinkedIn (https://www.linkedin.com/in/dianaberte).
+- ⚡ Fun fact: I knew nothing about coding until November 2022. I graduated in Chinese language & culture, and I used to work as a Marketing Specialist.
 
 <!--
 **DianaBerte/DianaBerte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
