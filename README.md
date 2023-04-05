@@ -4,8 +4,8 @@
 <ul>
 <li>💻 Full Stack Developer Student
 <li>🌱 Learning: HTML | CSS | JS | React | Redux | ExpressJS | Node JS | MongoDB | PostgreSQL
-<li>🍕 I'm Italian: ask me about anything but do NOT tell me that you like pineapple on your pizza if you do!
-<li>📫 I'm a message away on <a href="https://www.linkedin.com/in/dianaberte">LinkedIn</a>.
+<li>🍕 I'm Italian: ask me about anything but don't tell me that you like pineapple on your pizza if you do
+<li>📫 I'm a message away on <a href="https://www.linkedin.com/in/dianaberte">LinkedIn</a>!
 </ul>
 
 <!--
