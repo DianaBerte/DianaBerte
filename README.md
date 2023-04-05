@@ -5,9 +5,7 @@
 - 📫 How to reach me: I'm a message away on [LinkedIn](https://www.linkedin.com/in/dianaberte)
 
 [![](https://visitcount.itsvg.in/api?id=DianaBerte&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=DianaBerte&label=Profile%20Views&color=12&pretty=false" />
-</a>
+
 
 <!--
 **DianaBerte/DianaBerte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
