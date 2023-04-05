@@ -4,7 +4,7 @@
 - 🍕 I'm Italian: ask me about anything but do NOT tell me that you like pineapple on your pizza if you do!
 - 📫 How to reach me: I'm a message away on [LinkedIn](https://www.linkedin.com/in/dianaberte)
 
-[![](https://visitcount.itsvg.in/api?id=DianaBerte&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DianaBerte&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 <!--
