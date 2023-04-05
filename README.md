@@ -1,6 +1,6 @@
 ## Hi there!
 
-### 2 words about me:
+#### About me:
 <br/>
 <ul>
 <li>💻 Full Stack Developer Student
