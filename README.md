@@ -1,5 +1,7 @@
-## About me:
+## Hi there!
 
+### About me:
+<br/>
 <ul>
 <li>💻 Full Stack Developer Student
 <li>🌱 Learning: HTML | CSS | JS | React | Redux | ExpressJS | Node JS | MongoDB | PostgreSQL
