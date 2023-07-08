@@ -5,7 +5,7 @@
 <li>💻 Full Stack Developer
 <li>🌱 HTML | CSS | JS | React | Redux | ExpressJS | NodeJS | MongoDB | PostgreSQL
 <li>🍕 I'm Italian: ask me about anything but don't tell me that you like pineapple on your pizza! (JK.)
-<li>📫 I'm a message away on <a href="https://www.linkedin.com/in/dianaberte">LinkedIn</a> or <a href="mailto:dianaberte.go@gmail.com">dianaberte.go@gmail.com</a>
+<li>📫 I am a message away on <a href="https://www.linkedin.com/in/dianaberte">LinkedIn</a> or <a href="mailto:dianaberte.go@gmail.com">dianaberte.go@gmail.com</a>
 </ul>
 
 <!--
