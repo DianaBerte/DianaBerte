@@ -3,8 +3,9 @@
 #### About me:
 <ul>
 <li>💻 Full Stack Developer
-<li>🌱 HTML | CSS | JS | React | Redux | ExpressJS | NodeJS | MongoDB | PostgreSQL
-<li>🍕 I'm Italian: ask me about anything but don't tell me that you like pineapple on your pizza! (JK.)
+<li>🌱 HTML | CSS | JavaScript | TypeScript | React | React Redux | Express.js | Node.js | MongoDB | PostgreSQL
+<li>🌐 <a href="https://dianaberte.com">dianaberte.com</a>
+<li>🍕 Let's chat about anything but don't tell me that you like pineapple on your pizza! (JK, although you might've guessed that I'm Italian.)
 <li>📫 I am a message away on <a href="https://www.linkedin.com/in/dianaberte">LinkedIn</a> or <a href="mailto:dianaberte.go@gmail.com">dianaberte.go@gmail.com</a>
 </ul>
 
